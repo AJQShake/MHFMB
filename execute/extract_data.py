@@ -12,9 +12,9 @@
 
 # Imports
 from support import support as sp
+from support import context
+from support import station
 import requests
-import context
-import station
 import json
 
 # MAIN function to extract data
